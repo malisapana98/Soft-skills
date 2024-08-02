@@ -1,0 +1,33 @@
+
+
+
+                       ************************ Soft Skills Assignment *******************************
+ 
+
+             Module 2) Technology
+
+ Q-1) Discuss plans for upgrading your technology skills.
+
+      PHP developer skills are abilities you can utilize as a web developer specializing in using PHP to write code for server-side 
+
+      applications. Beyond the knowledge and understanding of the PHP language, a PHP developer can also use skills in other programming
+ 
+      and web development languages in a PHP development role.
+
+
+
+
+Q-2) Share your approach to continuous learning and professional development.
+
+    In exploring the internal landscape, even "conversations with your manager, creating action plans, sharing your goals to 
+
+    seek feedback from those around you, and embracing an attitude of always focusing on growing your knowledge and skill 
+
+    set" are examples of continuously learning and developing 
+
+
+
+Q-3 Mention any relevant courses, certifications, or resources you are pursuing.
+
+  
+     I have done  Bachelor of Computer Science then after complete to be  PHP Developer course done .
